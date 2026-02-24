@@ -97,7 +97,7 @@ export default function Home() {
             Proudly building the worlds leading organizations.
           </p>
 
-          <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-6">
+          <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-6 justify-center justify-items-center">
             {works.map((work) => (
               <a
                 key={work.name}
