@@ -3,22 +3,22 @@ import Image from "next/image";
 const works = [
   {
     name: "Compute Pods",
-    logo: "https://cdn.navdeep.online/logo/computepods",
+    logo: "https://cdn.navdeep.online/Logo/ComputePods-Black.png",
     url: "https://computepods.tech",
   },
   {
     name: "Builderly",
-    logo: "https://cdn.navdeep.online/logo/builderly",
+    logo: "https://cdn.navdeep.online/Logo/Builderly-Black.png",
     url: "https://builderly.tech",
   },
   {
     name: "Credless",
-    logo: "https://cdn.navdeep.online/logo/credless",
+    logo: "https://cdn.navdeep.online/Logo/Credless",
     url: "https://credless.tech",
   },
   {
     name: "Dinge",
-    logo: "https://cdn.navdeep.online/logo/dinge",
+    logo: "https://cdn.navdeep.online/Logo/dinge",
     url: "https://dinge.live",
   }
 ];
